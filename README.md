@@ -4,4 +4,5 @@ Passengers reckon that flying is very safe, considering strict inspections are c
 
 Imagine you have been hired by a leading airline. You are required to build Machine Learning models to anticipate and classify the severity of any airplane accident based on past incidents.
 With this, all airlines, even the entire aviation industry, can predict the severity of airplane accidents caused due to various factors and, correspondingly, have a plan of action to minimize the risk associated with them.
-![Uploading image.png…]()
+<img width="771" height="448" alt="image" src="https://github.com/user-attachments/assets/743c3d23-0e6b-469a-b110-9118e3be6faa" />
+
