@@ -6,3 +6,4 @@ Imagine you have been hired by a leading airline. You are required to build Mach
 With this, all airlines, even the entire aviation industry, can predict the severity of airplane accidents caused due to various factors and, correspondingly, have a plan of action to minimize the risk associated with them.
 <img width="771" height="448" alt="image" src="https://github.com/user-attachments/assets/743c3d23-0e6b-469a-b110-9118e3be6faa" />
 
+<img width="1421" height="787" alt="image" src="https://github.com/user-attachments/assets/3401ba33-7f05-49eb-abba-1e4dec870147" />
